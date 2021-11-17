@@ -1,0 +1,5 @@
+Link da markdownguide. Para entender melhor, como formatar os textos no arquivo readme.me
+https://www.markdownguide.org/basic-syntax/
+
+Link da página gist no github do rxaviers. Para usar os meus emoji preferidos no arquivo readme.me
+https://gist.github.com/rxaviers/7360908
